@@ -181,6 +181,6 @@ Provides strategic insights into restaurant distribution, pricing, customer beha
 
 💼 **LinkedIn:** *https://www.linkedin.com/in/bhawana-batra-5583b9293*
 
-🐙 **GitHub:** *https://github.com/*
+🐙 **GitHub:** *https://github.com/bhawanabatra*
 
 ---
